@@ -1,10 +1,9 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+![banner with a picture of Tierra del Fuego that says Nicholas Selby - engineering that centers users and their communities](gh-header.png)
+I am the Director of Engineering at Renewvia Energy. I am responsible for the design, procurement, construction, productive use, and software infrastructure of solar minigrids in rural Kenya, Nigeria, and Ethiopia. I have a B.S. in Mechanical Engineering from the Georgia Institute of Technology, an M.S. in Mechanical Engineering from MIT, and a Ph.D. in Electrical Engineering and Computer Science from MIT. I have worked as a research engineer for NASA's Jet Propulsion Laboratory and Sandia National Laboratories.
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+Some of my favorite technologies include robotics and machine learning with PyTorch, ROS, and NumPy in Python; computer vision with OpenCV in C++; and full-stack web development with HTML, CSS, and JavaScript's Node, Express, and Vue tools. I'm also adept at MATLAB and Simulink, LabVIEW, and Java. I'm passionate about sharing these skills with the next generation of engineers and scientists, and I've had the honor of teaching computer science around the world.
 
-
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Find me around the web 🌎
+- [My Personal Website](https://rupumped.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/nicholas-selby-5278b334/)
+- [Google Scholar](https://scholar.google.com/citations?user=SKcs1pEAAAAJ)
